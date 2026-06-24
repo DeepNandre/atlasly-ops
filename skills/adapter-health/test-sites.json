@@ -1,0 +1,19 @@
+{
+  "_comment": "One or more known-good test sites per adapter. Fill snapshot_ref with a path or hash of the verified expected output. Add real UPRNs / postcodes / coordinates per adapter.",
+  "adapters": {
+    "lpa_example_council": {
+      "test_sites": [
+        { "label": "known-good-site-1", "query": "REPLACE_WITH_POSTCODE_OR_UPRN", "snapshot_ref": "snapshots/lpa_example_council_1.json" }
+      ]
+    },
+    "ordnance_survey": {
+      "test_sites": [
+        { "label": "known-good-site-1", "query": "REPLACE_WITH_COORDS", "snapshot_ref": "snapshots/os_1.json" }
+      ]
+    },
+    "land_registry": { "test_sites": [] },
+    "dno": { "test_sites": [] },
+    "epc": { "test_sites": [] },
+    "planning_sources": { "test_sites": [] }
+  }
+}
