@@ -9,3 +9,4 @@ Newest at the bottom.
 ---
 
 2026-06-23 09:00 setup: repo scaffolded. signup-intel and adapter-health contracts in place. no runs yet.
+2026-11-23 21:28 vuln-hunter: at-rest scan of markdown-only ops contracts at aa168ef; no new MEDIUM+ findings.
