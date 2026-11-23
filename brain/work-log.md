@@ -9,3 +9,4 @@ Newest at the bottom.
 ---
 
 2026-06-23 09:00 setup: repo scaffolded. signup-intel and adapter-health contracts in place. no runs yet.
+2026-11-23 19:40 vuln-hunter: at-rest review of atlasly-ops at aa168ef217643d860d9588fc9ff75e114f634eac; markdown-only ops contracts, no new MEDIUM+ findings.
