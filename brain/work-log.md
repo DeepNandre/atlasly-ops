@@ -9,3 +9,4 @@ Newest at the bottom.
 ---
 
 2026-06-23 09:00 setup: repo scaffolded. signup-intel and adapter-health contracts in place. no runs yet.
+2026-11-25 18:19 vulnerability-hunter: hourly at-rest scan @ aa168ef — no MEDIUM+ findings (markdown-only ops brain; no Slack posting tool; flagged family not rewritten).
